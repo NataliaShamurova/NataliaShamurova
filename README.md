@@ -56,9 +56,16 @@
 
 ### :fire: Моя статистика :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NataliaShamurova1&theme=dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaShamurova&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaShamurova&count_private=true&hide=tsql&langs_count=7&theme=radical)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NataliaShamurovaA&hide_border=" alt="GitHub Streak" /></a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NataliaShamurova&theme=vue&show_icons=true&hide_border=true&count_private=true"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaShamurova&theme=vue&show_icons=true&hide_border=true&layout=compact"  /> 
+</div>
 
 <!--
 **NataliaShamurova/NataliaShamurova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
