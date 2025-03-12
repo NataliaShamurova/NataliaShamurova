@@ -56,11 +56,16 @@
 
 ### :fire: Моя статистика :
 
+###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NataliaShamurova&theme=vue&show_icons=true&hide_border=true&count_private=true"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaShamurova&theme=vue&show_icons=true&hide_border=true&layout=compact"  /> 
-</div>
+
+![NataliaShamurova GitHub Stats](https://github-readme-stats.vercel.app/api?username=NataliaShamurova&count_private=true&hide=contribs&show_icons=true&theme=radical) 
+
+###
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaShamurova&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+
+
 
 <!--
 **NataliaShamurova/NataliaShamurova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
