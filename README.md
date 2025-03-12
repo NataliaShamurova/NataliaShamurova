@@ -56,11 +56,6 @@
 
 ### :fire: Моя статистика :
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NataliaShamurovaA&hide_border=" alt="GitHub Streak" /></a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NataliaShamurova&theme=vue&show_icons=true&hide_border=true&count_private=true"  />
