@@ -59,13 +59,19 @@
 ###
 
 
-![NataliaShamurova GitHub Stats](https://github-readme-stats.vercel.app/api?username=NataliaShamurova&count_private=true&hide=contribs&show_icons=true&theme=radical) 
+<div align="center">
 
-###
+![NataliaShamurova GitHub Stats](https://github-readme-stats.vercel.app/api?username=NataliaShamurova&count_private=true&hide=contribs&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaShamurova&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
+</div>
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=NataliaShamurova)
+
+</div>
 
 <!--
 **NataliaShamurova/NataliaShamurova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
