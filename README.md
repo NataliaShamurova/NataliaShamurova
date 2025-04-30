@@ -25,7 +25,10 @@
  ## :file_folder: Мои проекты:
 
 
+- [Проекты по тестированию](https://github.com/NataliaShamurova/TestQA)
 
+  Анализ шапки сайта, Проверка опыта пользователя(UX), полная авторизация/регистрация
+  
 - [Сайт-портфолио на django](https://github.com/NataliaShamurova/site-portfolio)
 
   Стек: python, Django, ORM, Python-dotenv, Pillow, HTML/CSS, Bootstrap, SQLite3
